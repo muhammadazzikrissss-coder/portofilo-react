@@ -9,7 +9,7 @@ export default function Hero() {
           <TypewriterText />
         </div>
         <div className="hero-image">
-          <img src="src/assets/Profile.jpg" alt="Profile" />
+          <img src="/Profile.jpg" alt="Profile" />
         </div>
       </div>
 

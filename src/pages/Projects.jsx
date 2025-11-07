@@ -11,7 +11,7 @@ export default function Projects() {
       title: "Platformer2D",
       subtitle: "Game Pixel Platformer",
       category: "Game Web, Game Proto",
-      image: "src/assets/GambarPlatformer2D.png"
+      image: "/GambarPlatformer2D.png"
     },
     {
       title: "Chat-APP",
